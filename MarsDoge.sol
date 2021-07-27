@@ -1,9 +1,9 @@
 /**
    MarsDoge is a token inspired by the planet Mars and Mars exploration projects. 
-   Its features, figures, and symbols may have hidden meanings related to planet Mars, 
-   and we pass it to you to find out. 
+   Its features, figures, and symbols may have hidden meanings related to the planet Mars, 
+   and we let it for future holders to find out. 
    
-     #Important features of the MarsDoge:
+     #Key features of the MarsDoge Token:
        * The maximum token supply will be limited to 163,000,000,000 MarsDoge
        * 3% fee will be re-distributed to all token holders
        * 2% fee will be added to the liquidity pool and locked forever when selling
@@ -744,7 +744,7 @@ contract MarsDogeToken is Context, IBEP20, Ownable {
     constructor () public {
         _rOwned[_msgSender()] = _rTotal;
         
-        IUniswapV2Router02 _uniswapV2Router = IUniswapV2Router02(0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F);
+        IUniswapV2Router02 _uniswapV2Router = IUniswapV2Router02(0x10ED43C718714eb63d5aA57B78B54704E256024E);
          // Create a uniswap pair for this new token
         uniswapV2Pair = IUniswapV2Factory(_uniswapV2Router.factory())
             .createPair(address(this), _uniswapV2Router.WETH());
