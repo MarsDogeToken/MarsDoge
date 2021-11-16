@@ -66,13 +66,13 @@ Telegram Channel - https://t.me/MarsDogeToken
 
 Reddit - https://www.reddit.com/r/MarsDogeToken
 
-Facebook - https://www.facebook.com/MarsDoge-Token-103566228668818
+Facebook - https://www.facebook.com/MarsDoge_Token
 
 Discord - https://discord.gg/XP6haGw6Rh
 
 Medium - https://medium.com/@MarsDogeToken
 
-Youtube - https://www.youtube.com/channel/UCN5EUEFC3OtA05hVzEvJO1Q
+Youtube - https://www.youtube.com/c/MarsDogeToken
 
 TikTok - https://www.tiktok.com/@marsdogetoken
 
