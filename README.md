@@ -53,7 +53,7 @@ contract itself as the receiver of LP tokens on adding Liquidity.
 ✓ In order to minimize/break major whale actions, the after pre-sale maximum transaction
 amount will be limited to One million MarsDoge.
 
-✓ Initial liquidity will be locked for 3 years on the PinkSale.
+✓ Initial liquidity will be locked forever on the PinkSale.
 
 
 ✅ Important Links
