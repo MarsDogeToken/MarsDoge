@@ -30,30 +30,28 @@ will be split with half being converted to BNB and the total being supplied as l
 
 ✓ Contract address: 0xd76f84a1D7B9628280f9e9C6910866CECDc7f3A5
 
-✓ After Presale Contract Owner: 0x840c78255069f95920cCcCe0578ACE7F64dcfb56 (Timelock)
+✓ Contract Owner: 0x840c78255069f95920cCcCe0578ACE7F64dcfb56 (Timelock)
 
-✓ After Presale Timelock Proposer: 0x87AB786FAc232806b3b58d7d003850E525c8a7E0 (Multi-Sig)
+✓ Timelock Proposer: 0x87AB786FAc232806b3b58d7d003850E525c8a7E0 (Multi-Sig)
 
 
 
-✅ Why is MarsDoge so special?
+✅ Why MarsDoge is so special?
 
-✓ The ownership of the MarsDoge token contract will be transferred to a time-locked contract
-with 48-hour latency. So, the holders will be aware of the privileged operations in advance,
-and they can take action accordingly.
+✓ The ownership of the MarsDoge token contract has transferred to a time-locked contract with 48-hour latency. 
+So, the holders will be aware of the privileged operations in advance, and they can take action accordingly.
 
-✓ The proposer role of the Timelock contract will be assigned to a Multi-Signature wallet with
-a 3/5 threshold, to prevent a single point of failure due to mishandling of the private key.
+✓ The proposer role of the Timelock contract has assigned to a Multi-Signature wallet with a 3/5 threshold, 
+to prevent a single point of failure due to mishandling of the private key.
 
-✓ To protect the LP tokens from being stolen, accessing LP tokens is restricted by assigning the
-contract itself as the receiver of LP tokens on adding Liquidity.
+✓ To protect the LP tokens from being stolen, accessing LP tokens is restricted by assigning the contract itself 
+as the receiver of LP tokens on adding Liquidity.
+
+✓ Initial Liquidity Providers Tokens locked forever on PinkLock.
 
 ✓ The limited token supply (225 million) will speed up the boosting of the MarsDoge price.
 
-✓ In order to minimize/break major whale actions, the after pre-sale maximum transaction
-amount will be limited to One million MarsDoge.
-
-✓ Initial liquidity will be locked forever on the PinkSale.
+✓ In order to minimize/break major whale actions, the maximum transaction amount limited to One million MarsDoge.
 
 
 ✅ Important Links
